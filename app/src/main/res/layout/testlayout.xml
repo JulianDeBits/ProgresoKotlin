@@ -10,15 +10,16 @@
         android:layout_height="wrap_content"
         android:layout_row="0"
         android:layout_column="0"
-        android:layout_x="140dp"
-        android:layout_y="118dp"
+        android:layout_x="149dp"
+        android:layout_y="514dp"
+        android:backgroundTint="#E91E63"
         android:text="Cambiar Texto" />
 
     <TextView
         android:id="@+id/selectedtxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_x="146dp"
-        android:layout_y="228dp"
+        android:layout_x="148dp"
+        android:layout_y="373dp"
         android:text="Mostrando Texto 1" />
 </AbsoluteLayout>
